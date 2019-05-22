@@ -1,0 +1,3 @@
+local ground = {}
+
+return ground
